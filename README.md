@@ -14,7 +14,7 @@ To Run this project follow these instructions:
 `python manage.py collectstatic`    
 `python mange.py runserver`
  
- 
+ 1
 `git checkout -b 'MY_BRANCH'`   
 `git status`   
 `git add . `   
